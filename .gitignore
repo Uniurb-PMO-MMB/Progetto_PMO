@@ -1,0 +1,15 @@
+*.xmi
+.bin/
+.vscode/
+
+# files csv
+.src/files/*.csv
+.lib/
+.log/
+
+# files types
+*.class
+*.xml
+*.csv
+*.mf
+*.form
